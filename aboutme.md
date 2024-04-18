@@ -1,11 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: test
+subtitle: 
 ---
-
-My Name is Andrew Loh. This is a test of website making. 
-
-### My story
-
-boo! 
+### Hello!
+My Name is Andrew Loh. I'm a __software developer.__ This site serves as my personal portfolio and a general blog for things I find interesting. 
