@@ -21,8 +21,9 @@ author: Andrew Loh
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog"
   Portfolio: "portfolio"
-  My Stuff:
+  Other Stuff:
     - Deviantart: "https://www.deviantart.com/fossilds"
     
 
@@ -134,7 +135,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "##99FF99"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -258,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
